@@ -1,6 +1,6 @@
 <h2> Boa dia , Boa Tarde e muito Boa Noite </h2>
 <div>
-  <img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" alt="this slowpoke moves"  width="650" />
+  <img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" alt="this slowpoke moves"  width="450" />
 </div>
 <h3> Sobre min </h3>
 <p>Sempre fui apaixonado por tecnologia, todo esse ambiente e as possibilidades que ela nos traz simplesmente me fascinou principalemte a area grficas , design criacao. desde sempre qwuis trabalhar com algo que me permitisse trabalhar com criatividade,foi ai que conheci a Trybe e onde eu consegui o empurrazinho que precisava pra explorar mais , e aprender e aprimiorar tudo que ja gostava. Desde então já me aventurei pelo universo do Front-end e agora me apaixonando por Back-end.
