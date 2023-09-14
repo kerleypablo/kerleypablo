@@ -3,7 +3,7 @@
   <img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" alt="this slowpoke moves"  width="450" />
 </div>
 <h3> Sobre min </h3>
-<p>Sempre fui apaixonado por tecnologia, todo esse ambiente e as possibilidades que ela nos traz simplesmente me fascinou principalemte a area grficas , design criacao. desde sempre qwuis trabalhar com algo que me permitisse trabalhar com criatividade,foi ai que conheci a Trybe e onde eu consegui o empurrazinho que precisava pra explorar mais , e aprender e aprimiorar tudo que ja gostava. Desde então já me aventurei pelo universo do Front-end e agora me apaixonando por Back-end.
+<p>Desde sempre, minha paixão pela tecnologia e pelo design gráfico me impulsionou a buscar um espaço onde pudesse explorar minha criatividade de forma genuína. Foi na Trybe que encontrei o catalisador para expandir meus horizontes, mergulhando primeiro no mundo do Front-end e, mais recentemente, descobrindo uma nova paixão pelo Back-end. Minha jornada é uma busca constante por aprimoramento, pois almejo me tornar um profissional versátil capaz de unir a estética do design com a robustez da programação, contribuindo assim para a construção de soluções tecnológicas impactantes e inovadoras.
 <p/>
 
 <h3 align="left">Linguagens e Ferramentas</h3>
