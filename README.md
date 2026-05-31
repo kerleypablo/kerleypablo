@@ -1,4 +1,4 @@
-<h2> Boa dia , Boa Tarde e muito Boa Noite </h2>
+<h2> seja bem vindo </h2>
 <div>
   <img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" alt="this slowpoke moves"  width="450" />
 </div>
